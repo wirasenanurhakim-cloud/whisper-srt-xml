@@ -1,0 +1,4 @@
+torch
+stable-ts
+tkinterdnd2
+requests
